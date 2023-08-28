@@ -1,0 +1,4 @@
+name: MyButton
+description: My first custom drupal 10 Module
+type: module
+core_version_requirement: ^9 || ^10
