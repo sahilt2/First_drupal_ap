@@ -1,0 +1,4 @@
+name: Links Module
+description: My third custom drupal 10 Module
+type: module
+core_version_requirement: ^9 || ^10

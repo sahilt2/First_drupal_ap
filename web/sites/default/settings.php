@@ -844,3 +844,6 @@ $databases['default']['default'] = array (
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config__pAXbuBomIdQBrCK9AH5Ei-9BNbC5jsUsD9Em6KUgJHHwSsdgOp7OPIfXlp3GTs9Sd3v3_AV5A/sync';
+
+// Spit out verbal login message
+$config['system.logging']['error_level'] = 'verbose';

@@ -13,7 +13,7 @@
 /sites/default/drush.local.yml
 
 # Ignore Drupal's file directory
-/sites/*/files/
+/web/sites/*/files/
 
 # Ignore SimpleTest multi-site environment
 /sites/simpletest
